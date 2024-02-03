@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+@media screen and (max-width: 800px) {
+    .btn{
+        margin-top: 35px;
+    }
+  }
+
